@@ -1,3 +1,7 @@
+<br>
+
+### 2. Copy this into your `.github/workflows/snake.yml` file:
+
 ```yaml
 name: generate animation
 
