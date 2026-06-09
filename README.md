@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=250&section=header&text=Khan%20Tafazzul&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
   
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Hardware+%26+IoT+Enthusiast;AI+%26+Machine+Learning+Explorer" alt="Typing SVG" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Hardware+%26+IoT+Enthusiast;AI+%26+Machine+Learning+Explorer" alt="Typing SVG" />
 
   <!-- Social & Contact Badges -->
   <a href="mailto:khantafazzul740@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -19,7 +19,7 @@
 class Tafazzul:
     def __init__(self):
         self.name = "Khan Tafazzul"
-        self.education = "Class 11 Science (ICSE)"
+        self.education = "Class 11 Science (ICSE/CISCE)"
         self.location = "Lucknow, India"
         self.architecture_focus = "Offline-First & Local-First Systems"
         self.future_goals = ["Tech Entrepreneur", "Merchant Navy Officer & LNG Ship Captain"]
@@ -31,5 +31,5 @@ class Tafazzul:
             "Hardware": "ESP32-CAM autonomous robotics & precision line-followers"
         }
 
-    def get_hobbies(self):
-        return ["Fine-tuning local LLMs", "Live sports broadcast tech", "Motion graphics"]
+    def execute_daily_routine(self):
+        return ["Code", "Build Hardware", "Train Models", "Repeat"]
